@@ -1,6 +1,6 @@
 absl-py==0.8.0
 appnope==0.1.0
-arrow==0.14.6
+arrow==0.15.1
 asn1crypto==0.24.0
 astor==0.8.0
 attrs==19.1.0
